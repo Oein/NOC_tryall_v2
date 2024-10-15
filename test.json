@@ -1,0 +1,8 @@
+{
+  "v": [
+    { "id": "d6x2a9", "name": "a", "min": 1, "max": 100, "step": 1 },
+    { "id": "h8kurl", "name": "b", "min": 1, "max": 100, "step": 1 },
+    { "id": "9boz1zv", "name": "c", "min": 1, "max": 100, "step": 1 }
+  ],
+  "f": "(a<b&&b<c)&&(a+b+c)%2==0"
+}
