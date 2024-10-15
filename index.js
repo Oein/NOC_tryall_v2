@@ -135,7 +135,6 @@ calc.addEventListener("click", () => {
   // has now variable value
   const stack = [];
   let i = 0;
-  debugger;
   const stackHandler = () => {
     if (i == variables.length) {
       const func = functionized(...stack);
